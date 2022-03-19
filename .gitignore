@@ -4,6 +4,7 @@ _site
 .idea
 .venv
 
+*.md
 *.py
 *.cc
 *.java
