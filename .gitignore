@@ -1,0 +1,9 @@
+_site
+.DS_Store
+.vscode
+.idea
+.venv
+
+*.py
+*.cc
+*.java
