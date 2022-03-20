@@ -12,11 +12,10 @@ def isPalindrome(S):
                 L[i][j] = R[i][cnt]
                 cnt += 1
 
-    L0 = list(map(lambda x: "".join(x).split('0'), L))
-    L0 = list(map(lambda x: "111" in x or ("*".join(x)).split("1").count("***") > 0 , L0))
-    L1 = list(map(lambda x: "".join(x).split('1'), L))
-    L1 = list(map(lambda x: "000" in x or ("*".join(x)).split("0").count("***") > 0, L1))
-    if (False in L0) or (False in L1):
+    L01 = list(map(lambda x: "".join(x).split('0'), L))
+    L01 = list(map(lambda x: "111" in x or ("*".join(x)).split("1").count("***") > 0 , L01))
+    
+    if (False in L01):
         return False
     return True
     
