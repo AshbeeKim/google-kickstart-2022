@@ -13,6 +13,11 @@
 ## Round A
 * Start: Mar 20 2022, 04:00(UTC)
 * End: Mar 20 2022, 07:00(UTC)
+* problems
+    * [Speed Typing](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7021)
+    * [Challenge Nine](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7997)
+    * [Palindrome Free Strings](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e762e)
+    * [Interesting Integers](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e73ea)
 
 ## Round B
 * Start: Apr 23 2022, 23:00(UTC)
